@@ -2,7 +2,7 @@ gl.setup(1024, 768)
 
 local json = require "json"
 local font = resource.load_font("dlrg-univers.ttf")
-local inspect =require "inspect"
+local inspect = require "inspect"
 
 local images = util.auto_loader()
 
